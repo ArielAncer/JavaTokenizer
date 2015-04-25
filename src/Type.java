@@ -1,0 +1,52 @@
+package prser;
+
+public interface Type{
+			
+	 public enum lex{
+		 
+		IDENT,
+		INTEGER,
+		CONSTCH,
+		IF,
+		ELSE,
+		WHILE,
+		CIN,
+		COUT,
+		INT,
+		CHAR,
+		VOID,
+		COMMA,
+		LBRACKET,
+		RBRACKET,
+		LSBRACKET,
+		RSBRACKET,
+		SEMICOLON,
+		GREATERX3,
+		GREATEREQ,
+		GREATERGREATER,
+		GREATER,
+		LESSEQ,
+		LESSLESS,
+		LESS,
+		EQUIVALENCE,
+		EQUAL,
+		NOTEQUIV,
+		EXCL,
+		MULTIPLY,
+		DIVIDE,
+		PERCENT,
+		TILDE,
+		LEXAND,
+		AND,
+		LEXOR,
+		OR,
+		PLUSPLUS,
+		PLUS,
+		MINUSMINUS,
+		MINUS
+		
+		}
+}
+
+
+
