@@ -1,2 +1,2 @@
-# JavaTokenizer
-A lexical analyzer that analyzes a specific language provided in EBNF form.
+# Parser
+A parser that analyzes a text file with regard to a specific language provided in EBNF form.
