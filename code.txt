@@ -1,0 +1,23 @@
+class test{
+
+ void method(){
+	
+	int num;
+	
+	if( num == 7 ){
+	num = 14;
+	}
+	
+	method3( );
+
+	}
+	
+	 void method2( ){
+	
+	int limit;
+	
+	limit = 56;
+	
+	}
+	
+	}
